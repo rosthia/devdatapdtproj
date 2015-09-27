@@ -1,4 +1,4 @@
-# Devdatapdtproj
+# Developing data products project
 The following repo contained the supporting files and documentation for a simple shiny app.
 
 The app is based on the data set: https://archive.ics.uci.edu/ml/datasets/Auto+MPG. 
