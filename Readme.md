@@ -13,4 +13,4 @@ The repo inludes the following additional files:
 2. server.R second file needed to generate the shiny app
 3. Index.rmd is the Markdown file that generates the R Presenter presentation describing the shiny app
 4. Index.html is a HTML compiled from the .md file, and generates the presentation hosted on 
-RPubs: http://rpubs.com/rthia/
+RPubs: http://rpubs.com/rosthia/113816
